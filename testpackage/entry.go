@@ -6,5 +6,5 @@ func Greeting(){
 }
 func Greet()string{
 	log.Fatal("Error")
-	return "hello world"
+	return "hello world and welcome to utility"
 }
